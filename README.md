@@ -16,5 +16,4 @@ A simple and clean To-Do List web application built using HTML, CSS, and JavaScr
 - CSS
 - JavaScript
 
-## How to Run
-1. Download or clone the repository:
+
